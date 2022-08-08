@@ -15,5 +15,7 @@
       - 3362    3360    42      48473   2                       Waller County
       
 ## Source: 
-    - https://www2.census.gov/programs-surveys/metro-micro/geographies/reference-files/1990/historical-delineation-files/90mfips.txt
-    - Historical files: https://www.census.gov/geographies/reference-files/time-series/demo/metro-micro/historical-delineation-files.html
+    - 1990 Definition:
+        - https://www2.census.gov/programs-surveys/metro-micro/geographies/reference-files/1990/historical-delineation-files/90mfips.txt
+    - Historical files: 
+        - https://www.census.gov/geographies/reference-files/time-series/demo/metro-micro/historical-delineation-files.html
